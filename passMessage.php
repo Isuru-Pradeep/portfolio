@@ -41,7 +41,7 @@
                     <h2>Pass your things</h2>
                     <br>
                     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-                        <p>Enter your meassage</p>
+                        <p>Enter your message</p>
                         <textarea name="Message" id="message" cols="30" rows="10"></textarea>
                         <input type="text" name="URL" placeholder="Enter attachment URL">
                         <?php
