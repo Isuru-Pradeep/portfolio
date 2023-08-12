@@ -315,8 +315,8 @@ function prevMessages(){
     $resultCheck = mysqli_num_rows($result);
 
     echo "<br>";
-    echo "<h2>sent messages</h2>";
-
+    echo "<h2>Sent messages</h2>";
+    echo "<br>";
     echo "<table style ='border-collapse: collapse; width: 100%; border: 1px solid #f7931e;' >";
     echo "<tr>";
     echo "<th>Message ID</th>";
