@@ -317,7 +317,7 @@ function prevMessages(){
     echo "<br>";
     echo "<h2>sent messages</h2>";
 
-    echo "<table style ='border: 1px solid white;' >";
+    echo "<table style ='border-collapse: collapse; width: 100%; border: 1px solid #f7931e;' >";
     echo "<tr>";
     echo "<th>Message ID</th>";
     echo "<th>Message</th>";
